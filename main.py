@@ -1,4 +1,3 @@
-# main.py
 from playfair import encrypt_playfair, decrypt_playfair
 from hill import encrypt_hill, decrypt_hill, get_key_matrix
 from vigenere import encrypt_vigenere, decrypt_vigenere
